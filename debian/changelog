@@ -1,3 +1,9 @@
+multinest (2.14+git20150803-1kern1) xenial; urgency=medium
+
+  * update signature
+
+ -- KERN packaging <packaging@kernsuite.info>  Tue, 07 Nov 2017 19:20:17 +0200
+
 multinest (2.14+git20150803-1) xenial; urgency=medium
 
   * Initial release (Closes: #nnnn)
