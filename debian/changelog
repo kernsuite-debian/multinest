@@ -1,3 +1,9 @@
+multinest (3.10-1kern1) bionic; urgency=medium
+
+  * New upstream version 3.10
+
+ -- KERN packaging <packaging@kernsuite.info>  Fri, 18 May 2018 12:47:53 +0000
+
 multinest (2.14+git20150803-1kern1) xenial; urgency=medium
 
   * update signature
